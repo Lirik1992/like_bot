@@ -1,0 +1,9 @@
+{
+    "smart_like_mode": true,
+    "sleep_delay": 2200,
+    "like_depth_per_user": 5,
+    "instagram_account_username": "dim_bud",
+    "instagram_account_password": "11weew11",
+    "instagram_accounts_to_be_liked": ["tanavolokhova"],
+    "hashtag_like_mod": ["friend"]
+}
